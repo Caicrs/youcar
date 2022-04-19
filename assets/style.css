@@ -369,9 +369,13 @@ input:focus {
     margin-left: 32%;
   }
   .search-car {
-    width: 40%;
+    width: 80%;
     font-size: 12px;
-    margin-left: 50%;
+   
+  }
+  .search-line{
+      width: 28%;
+      margin-left: 63%;
   }
   .btn_newcar {
     width: 93%;
